@@ -1,2 +1,2 @@
 # kristoffer-cm
-## Project manager at [Itiden](https://itiden.se)
+## Project manager at [HedinIT](https://hedinit.se)
